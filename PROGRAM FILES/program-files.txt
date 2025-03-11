@@ -1,0 +1,11 @@
+A QA engineer, a software developer, and a sysadmin walk into a bar.
+
+The QA engineer orders a beer.
+The developer orders a beer.
+The sysadmin orders a beer.
+
+The QA engineer then orders -1 beers, 999999 beers, a lizard, and "NULL" beers, just to see what happens.
+
+The developer panics and runs out of the bar.
+
+Meanwhile, the sysadmin locks down the bar, installs security updates, and refuses to let anyone else in until next Monday.
