@@ -27,7 +27,7 @@ The **main technologies** used for this project / game are :
 > **EXPLANATION** : It represents the **time** you have to **COMPLETE** the game, normally **one minute and 30 seconds**. If the timer runs out and the player hasn’t collected all the pick-ups, it will be considered a **GAME OVER**.
 
 ### 5. Scoring system & player feedback
-> **EXPLANATION** : It represents the **functionality that tracks** how many pick-ups you've collected up to that point. When you've collected them all, **you win**. If **you lose** for any reason—whether you **haven't collected all the pick-ups**, you've been **caught by the enemy**, or **time has run out** — you lose. For each outcome, **victory** or **defeat**, the player will receive a display message saying **'YOU WIN'** or **'YOU LOSE'**.
+> **EXPLANATION** : It represents the **functionality that tracks** how many pick-ups you've collected up to that point. When you've collected them all, **you win**. If **you lose** for any reason — whether you **haven't collected all the pick-ups**, you've been **caught by the enemy**, or **time has run out** — you lose. For each outcome, **victory** or **defeat**, the player will receive a display message saying **'YOU WIN'** or **'YOU LOSE'**.
 
 ### 6. JUMP ability
 > **EXPLANATION** : One of the game’s requirements, due to **obstacles of various shapes**, is that the player must jump in order to collect pick-ups from high places or to **escape from the enemy**.
