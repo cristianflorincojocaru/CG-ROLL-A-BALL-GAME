@@ -45,4 +45,36 @@ The **main technologies** used for this project / game are :
 > **EXPLANATION** : This has been implemented to **assist the player in key moments**, allowing them to pause the game if they can’t continue for any reason, without closing the game and **losing their progress**.
 
 
+## KEY FILES FOR THE PROJECT
+In this project, several files were required to make the game run properly.
 
+The first one, ***"CameraController.cs"***, is the file that helps the camera follow the player across the map. 
+- The second, ***"Rotator.cs"***, helps the pick-ups, of any kind, rotate in the air like "prizes."
+
+***"EnemyMovement.cs"** is the file that 'teaches' the enemy to follow the player and prevent them from winning.
+***"PlayerController.cs"*** is the file that handles several things, from helping the player move around the map to enabling jumping, making the enemy disappear, and working in parallel with the files that manage the pause and restart button functionalities.
+
+***"GameController.cs"*** is the file that handles the restart button, which works based on win or lose conditions, making it a crucial part of the project.
+- ***"PauseMenu.cs"***, as the name suggests, helps make the pause button function properly.
+
+
+> [!WARNING]
+> Being a **simple** project, there are no **'unimportant'** files.
+> 
+> All files in the project are considered **important**, and deleting any file will lead to **permanent damage** to the game.
+
+
+## TESTING METHODS
+If you simply want to play the game and test the final project, you can download the archive from the **'GAMEBUILD'** folder. Once you extract the files from the initial archive, you can easily access the executable file **'Roll-a-Ball Game.exe'** and play indefinitely. 
+
+- **Minimum requirements** – **40 MB** of free space for download.
+
+If you'd like to see the process behind the scenes, you're invited to download the **3 archives** from the **'PROGRAM FILES'** folder, which contain the original files behind the creation of the project. With these, you can make modifications to the project I have already completed, as you wish.
+
+
+## CONTRIBUTIONS 
+Project created by **Cristian Florin Cojocaru** (**CSE.2** - **University of Craiova / Faculty of Automatics, Computer Science and Electronics**). Contributions are welcome ! If you have suggestions for improving the code or documentation, please submit a pull request.
+
+
+## LICENSE
+This project is licensed under the [MIT License](LICENSE).
