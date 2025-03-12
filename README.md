@@ -49,7 +49,8 @@ The **main technologies** used for this project / game are :
 In this project, several files were required to make the game run properly.
 
 The first one, ***"CameraController.cs"***, is the file that helps the camera follow the player across the map. 
-- The second, ***"Rotator.cs"***, helps the pick-ups, of any kind, rotate in the air like "prizes."
+
+The second, ***"Rotator.cs"***, helps the pick-ups, of any kind, rotate in the air like "prizes."
 
 ***"PlayerController.cs"*** is the file that handles several things, from helping the player move around the map to enabling jumping, making the enemy disappear, and working in parallel with the files that manage the pause and restart button functionalities.
 ***"EnemyMovement.cs"** is the file that 'teaches' the enemy to follow the player and prevent them from winning.
