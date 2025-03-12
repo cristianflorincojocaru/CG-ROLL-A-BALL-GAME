@@ -33,7 +33,7 @@ The **main technologies** used for this project / game are :
 > **EXPLANATION** : One of the game’s requirements, due to **obstacles of various shapes**, is that the player must jump in order to collect pick-ups from high places or to **escape from the enemy**.
 
 ### 7. PILLS collection
-> **EXPLANATION** : These represent the **player’s SECRET weapon**. Similar to the normal pick-ups in nature, they cause the enemy to **disappear** for a period of **5 seconds**. To avoid interfering with the required pick-up score for victory, the pills **do not count ** toward the score, ensuring the final score remains **unaffected**.
+> **EXPLANATION** : These represent the **player’s SECRET weapon**. Similar to the normal pick-ups in nature, they cause the enemy to **disappear** for a period of **5 seconds**. To avoid interfering with the required pick-up score for victory, the pills **do not count** toward the score, ensuring the final score remains **unaffected**.
 
 ### 8. DYNAMIC obstacles
 > **EXPLANATION** : To make winning a bit more challenging, the map features **dynamic obstacles** that force the player to hit them in order to collect the pick-up. Once hit, these obstacles **change their position** on the map and can become **inconvenient** for both the player and the enemy.
