@@ -8,9 +8,9 @@
 ## TECHNOLOGIES USED
 The **main technologies** used for this project / game are :
 
-**UNITY** : The game engine used to develop the game.
+**UNITY** - The game engine used to develop the game.
 
-**C#** : The **programming** language used for scripting and game logic.
+**C#** - The **programming** language used for scripting and game logic.
 
 
 ## FEATURES
