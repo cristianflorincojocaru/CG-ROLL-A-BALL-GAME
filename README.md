@@ -13,7 +13,7 @@ The **main technologies** used for this project / game are :
 **C#** - The **programming** language used for scripting and game logic.
 
 
-## FEATURES
+## GAME FEATURES
 ### 1. Player movement - **BALL**
 > **EXPLANATION** : The player / **ball** can move in **any direction** by pressing the **W, A, S, D** keys on the **keyboard**, without any **special actions** like ***jumping*** or ***flying***.
 
