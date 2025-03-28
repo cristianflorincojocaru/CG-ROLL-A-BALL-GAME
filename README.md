@@ -20,19 +20,19 @@ The **main technologies** used for this project / game are :
 ### 2. Enemy movement - PARALLELEPIPED
 > **EXPLANATION** : The **enemy**, created according to the code it follows, will **chase you across the map**, trying to **stop you** from collecting all the **pick-ups** or attempting to interfere with your progress so that you lose over time.
 
-### 3. Object / PICK-UP collection
+### 3. PICK-UPs - the awards
 > **EXPLANATION** : These represent your **objective** in the game. You must collect all **12** of them *BEFORE* **time runs out** to **WIN** the game against the enemy.
 
-### 4. TIMER 
+### 4. TIMER - keep an eye on the clock
 > **EXPLANATION** : It represents the **time** you have to **COMPLETE** the game, normally **one minute and 30 seconds**. If the timer runs out and the player hasn’t collected all the pick-ups, it will be considered a **GAME OVER**.
 
-### 5. Scoring system & player feedback
+### 5. Scoring system & Player feedback
 > **EXPLANATION** : It represents the **functionality that tracks** how many pick-ups you've collected up to that point. When you've collected them all, **you win**. If **you lose** for any reason — whether you **haven't collected all the pick-ups**, you've been **caught by the enemy**, or **time has run out** — you lose. For each outcome, **victory** or **defeat**, the player will receive a display message saying **'YOU WIN'** or **'YOU LOSE'**.
 
-### 6. JUMP ability
+### 6. JUMP - the special skill
 > **EXPLANATION** : One of the game’s requirements, due to **obstacles of various shapes**, is that the player must jump in order to collect pick-ups from high places or to **escape from the enemy**.
 
-### 7. PILLS collection
+### 7. PILLS - the aid
 > **EXPLANATION** : These represent the **player’s SECRET weapon**. Similar to the normal pick-ups in nature, they cause the enemy to **disappear** for a period of **5 seconds**. To avoid interfering with the required pick-up score for victory, the pills **do not count** toward the score, ensuring the final score remains **unaffected**.
 
 ### 8. DYNAMIC obstacles
@@ -46,10 +46,9 @@ The **main technologies** used for this project / game are :
 
 
 ## KEY FILES FOR THE PROJECT
-In this project, several files were required to make the game run properly.
+In this project, **several files** were required to make the game run properly.
 
 The first one, ***"CameraController.cs"***, is the file that helps the camera follow the player across the map. 
-
 The second, ***"Rotator.cs"***, helps the pick-ups, of any kind, rotate in the air like "prizes."
 
 ***"PlayerController.cs"*** is the file that handles several things, from helping the player move around the map to enabling jumping, making the enemy disappear, and working in parallel with the files that manage the pause and restart button functionalities.
