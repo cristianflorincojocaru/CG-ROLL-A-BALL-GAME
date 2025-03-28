@@ -2,7 +2,7 @@
 
 
 ### DESCRIPTION :
-**Roll-A-Ball** is a **simple game** developed using **Unity**, where the player controls a ball that must collect objects in a **3D environment**. The goal of the game is to gather all the objects on the map in the **shortest time possible**, while **avoiding obstacles** and **interacting with various mechanics**.
+**"Roll-A-Ball"** is a **simple game** developed using **Unity**, where the player controls a ball that must collect objects in a **3D environment**. The goal of the game is to gather all the objects on the map in the **shortest time possible**, while **avoiding obstacles** and **interacting with various mechanics**.
 
 
 ## TECHNOLOGIES USED
@@ -64,7 +64,7 @@ The second, ***"Rotator.cs"***, helps the pick-ups, of any kind, rotate in the a
 
 
 ## TESTING METHODS
-If you simply want to play the game and test the final project, you can download the archive from the **'GAMEBUILD'** folder. Once you extract the files from the initial archive, you can easily access the executable file **'Roll-a-Ball Game.exe'** and play indefinitely. 
+If you simply want to play the game and test the final project, you can download the archive from the **'GAMEBUILD'** folder. Once you extract the files from the initial archive, you can easily access the executable file **"Roll-a-Ball Game.exe"** and play indefinitely. 
 
 - **Minimum requirements** – **40 MB** of free space for download.
 
