@@ -13,6 +13,19 @@ The **main technologies** used for this project / game are :
 **C#** - The **programming** language used for scripting and game logic.
 
 
+
+## GAME CONTROLS
+
+|          **ACTION**        	        |  **BUTTON** |                **DESCRIPTION**          	|
+|:------------------------------:     |:---------:	|:-----------------------------------:	    |
+|           **JUMP**                  |  **SPACE**  |    help the **player** get out of trouble by jumping    |
+|         **HORIZONTAL (+)**        	|    **d**   	| move the **player** - to the right |
+|         **HORIZONTAL (-)**        	|    **a**   	|  move the **player** - to the left	|
+|         **VERTICAL (+)**          	|    **w**   	|    move the **player** - forward  	|
+|         **VERTICAL (-)**  	        |    **s**    |     move the **player** - back    	|
+
+
+
 ## GAME FEATURES
  **1. Player movement - BALL**
 > **EXPLANATION** : The player / **ball** can move in **any direction** by pressing the **W, A, S, D** keys on the **keyboard**, without any **special actions** like ***jumping*** or ***flying***.
