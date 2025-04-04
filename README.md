@@ -70,7 +70,7 @@ The second, ***"Rotator.cs"***, helps the pick-ups, of any kind, rotate in the a
 ***"GameController.cs"*** is the file that handles the restart button, which works based on win or lose conditions, making it a crucial part of the project. ***"PauseMenu.cs"***, as the name suggests, helps make the pause button function properly.
 
 
-> [!WARNING]
+> [!CAUTION]
 > Being a **simple** project, there are no **'unimportant'** files.
 > 
 > All files in the project are considered **important**, and deleting any file will lead to **permanent damage** to the game.
